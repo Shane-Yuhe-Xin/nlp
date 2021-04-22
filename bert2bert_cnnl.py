@@ -7,8 +7,8 @@
 
 
 
-# import datasets
-# import transformers
+import datasets
+import transformers
 
 from transformers import BertTokenizerFast
 
